@@ -8,7 +8,7 @@ class Test_002:
         a = 3
         b = 4
         sum = a + b
-        if sum == 8:
+        if sum == 7:
             assert True
         else:
             assert False
